@@ -23,10 +23,8 @@ const pushDataToKafka =(dataToPush) => {
   })
   }
 catch(error) {
-  //  handle eror here
   console.log(error);
 }
-
 
 };
 

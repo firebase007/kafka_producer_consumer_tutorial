@@ -1,7 +1,7 @@
 var kafka = require('kafka-node');
-var client = new kafka.KafkaClient();
+var client = new kafka.KafkaClient({kafkaHost: config.KafkaHost});
 const config  = require('./config');
-require('dotenv').config();
+
 
 const topicToCreate = [{
   topic: config.KafkaTopic,

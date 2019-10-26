@@ -1,5 +1,5 @@
 {
-  "name": "kafka-tutorial",
+  "name": "kafka-producer_consumer_tutorial",
   "version": "1.0.0",
   "description": "Building a real-time data streaming application pipeline with Apache Kafka",
   "main": "app.js",

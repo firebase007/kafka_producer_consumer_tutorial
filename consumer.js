@@ -23,7 +23,7 @@ try {
     );
   })
   consumer.on('error', function(error) {
-    //  hsandle error
+    //  handle error 
     console.log('error', error);
   });
 }

@@ -3,7 +3,7 @@ const jsonData = [{
   "name":"Alexander Nnakwue",
   "age": 24,
   "occupation": "Software Engineer",
-  "religion": "islam",
+  "religion": "Islam",
   "sports":"football"
 },
 {
@@ -11,14 +11,14 @@ const jsonData = [{
   "age": 25,
   "occupation": "Software Tester",
   "religion": "Christain",
-  "sports":"soccer"
+  "sports":"Soccer champ"
 },
 {
 "name":"Alexander Nnakwue Ebuka",
   "age": 26,
-  "occupation": "Technical Author",
+  "occupation": "Technical Author & Reviewer",
   "religion": "Christain",
-  "sports":"hand-ball"
+  "sports":"Hand-ball"
 }];
 
 module.exports = jsonData;
