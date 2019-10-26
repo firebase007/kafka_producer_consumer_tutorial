@@ -16,7 +16,7 @@ Check the ```createTopic.js``` file
 
 
 To start the application(producer), run the ```start.sh``` shell script
-If there is a permissions issue, run ```+X chmod start.sh```
+If there is a permissions issue, run ```chmod +x start.sh```
 
 To run the consumer script, run  ```node ./consumer.js```
 
